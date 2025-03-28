@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Empresa {
     public static void main(String[] args) {
 
-        //Creamos dos jefes
+        //Creamos dos jefes de prueba
         ArrayList<Jefe> jefes = new ArrayList<Jefe>();
         Jefe jefe1 = new Jefe("Jefe1",555555,88888888);
         jefes.add(jefe1);
